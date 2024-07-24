@@ -139,3 +139,4 @@ let slogan = "ThisIsHowWeDoIt";
 for (let i =0 ; i< slogan.length; i ++){
   console.log(slogan [i])
 }
+
